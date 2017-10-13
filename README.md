@@ -1,4 +1,4 @@
-"La Cosa" Medialab-Prado
+"La Cosa" Medialab-Prado 
 ======
 <img src="http://medialab-prado.es/mmedia/14/14417/500_0.jpg" />
 <img src="http://medialab-prado.es/mmedia/1/1459/350_0.jpg" />
